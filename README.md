@@ -1,11 +1,17 @@
-# CoDoc
 
 **COMPANY**: CODTECH IT SOLUTIONS
+
 **NAME**: YASHPRATAP SHAH
+
 **INTERN ID**: CT04DA274
+
 **DOMAIN**: FULL STACK WEB DEVELOPMENT
+
 **DURATION**: 4 WEEKS
+
 **MENTOR**: NEELA SANTHOSH
+
+# CoDoc
 
 **CoDoc** is a real-time collaborative document editing platform built with a modern full-stack architecture. It enables users to create, edit, and collaborate on rich-text documents simultaneously, with support for live cursors, threads, comments, and team-based permissions.
 
