@@ -188,7 +188,7 @@ THE SOFTWARE.
 * **PostgreSQL** – Reliable relational database system.
 
 
-##Output
+## Output
 
 ![Image](https://github.com/user-attachments/assets/31e950ee-b73c-4cd9-9787-2177931213fa)
 
