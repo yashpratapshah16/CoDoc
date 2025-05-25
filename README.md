@@ -186,3 +186,14 @@ THE SOFTWARE.
 * **ChatGPT** – Code architecture guidance and logic enhancements.
 * **Prisma** – Database queries and migrations.
 * **PostgreSQL** – Reliable relational database system.
+
+
+##Output
+
+![Image](https://github.com/user-attachments/assets/31e950ee-b73c-4cd9-9787-2177931213fa)
+
+![Image](https://github.com/user-attachments/assets/320e70b9-1e63-4d8b-bf31-47f570683cec)
+
+![Image](https://github.com/user-attachments/assets/f597bd2d-ddb9-426f-9c5d-b692c437f5af)
+
+
